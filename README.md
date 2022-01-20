@@ -15,6 +15,7 @@ python:
     - requests
     - cryptography
 ```
+There is already a sample file included in the repo, just edit it.
 
 To install modules locally, just run:
 ```bash
