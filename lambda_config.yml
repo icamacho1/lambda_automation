@@ -1,0 +1,10 @@
+python:
+  runtime: 3.9
+  requirements:
+    - pyjwt
+    - requests
+    - cryptography
+function:
+  name: sharepoint_endpoint
+  handler: lamda_function.lambda_handler    
+    
