@@ -22,7 +22,7 @@ python3 compile.py -b
 python3 compile.py -c
 ```
 
-* To upload the project to an already existing lambda: (**IMPORTANT**: Remember to pick the right name in the config and the handler)
+* To upload the project to an already existing lambda: (**IMPORTANT**: Remember to pick the right name and handler in the config file! )
 ```bash
 python3 compile.py -u
 ```
